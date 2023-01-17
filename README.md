@@ -70,6 +70,6 @@
 
 ### 📕 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barisgudenolu&layout=compact&theme=vision-friendly-dark)](https://github.com/barisgudenolu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-user-name&layout=compact&theme=vision-friendly-dark)](https://github.com/barisgudenolu/github-readme-stats)
 
 ---
