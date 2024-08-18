@@ -1,10 +1,5 @@
 # Hi there, I'm Barış Güdenoğlu 👋 
 
-<div id="badges">
-  <a href="https://www.youtube.com/channel/UCNsJfx8b6tQ_DkbEVL1domw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
 <img src="https://komarev.com/ghpvc/?username=barisgudenolu&style=flat-square&color=blue" alt=""/>
 
 ## I try to do everything I can!!
