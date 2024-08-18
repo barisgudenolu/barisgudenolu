@@ -5,9 +5,9 @@
 ## I try to do everything I can!!
 
 - 🔭 I'm currently working on a UAV Project!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning about Web3 🤣
 - 👯 Exploring Ethical Hacking
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2024 Goals: Learn more about web3
 - ⚡ Fun fact: I love Martial-Arts
 
 ### Languages and Tools:
