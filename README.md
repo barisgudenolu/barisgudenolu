@@ -1,6 +1,6 @@
 # Hello, I'm Barış Belevi 👋 
 
-<img src="https://komarev.com/ghpvc/?username=barisgudenolu&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=belevibaris&style=flat-square&color=blue" alt=""/>
 
 ## I'm a Full-Stack Developer.
 
@@ -20,7 +20,7 @@ Most of the stuff I upload are just Me figuring out new stuff and documenting it
 
 ### 📺 Latest Stats
 
-![Baris's GitHub stats](https://github-readme-stats.vercel.app/api?username=barisgudenolu&show_icons=true&theme=radical)
+![Baris's GitHub stats](https://github-readme-stats.vercel.app/api?username=belevibaris&show_icons=true&theme=radical)
 
 
 ---
