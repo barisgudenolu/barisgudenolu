@@ -10,7 +10,7 @@ Stuff I'm working on right now!
 - Exploring Ethical Hacking
 - Learning more about Web3
 
-Currently a Comp. Engineering Student at DAU, but I accept comissions.
+Currently a Comp. Engineering Student at EMU, and I accept comissions.
 
 Most of the stuff I upload are just Me figuring out new stuff and documenting it.
 <br />
